@@ -1,5 +1,14 @@
-### Hi there 👋
+###  Moro. Mun nimi on Rami Erkkilä. 👋
 
+##### Olen toisen vuoden taloustieteen opiskelija Helsingin yliopistossa ja opiskelujen ohessa tulee tehtyä aina välillä pieniä koodausprojekteja.
+
+* Python 
+* R 
+* SQL 
+
+##### Parhaat ja mielenkiintoisimmat projektit ovat yleensä kiinnitettyinä etusivulla, mutta muutkin kannattaa käydä vilasemassa, jos mielenkiintoa löytyy.
+
+#### [LinkedIn profiili](https://www.linkedin.com/in/rami-erkkil%C3%A4/ "Named link title")
 <!--
 **Rapasi/Rapasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
