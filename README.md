@@ -1,6 +1,6 @@
-###  Moro. Mun nimi on Rami Erkkilä. 👋
+###  Tervetuloa katselemaan projektejani. Minä olen Rami Erkkilä. 👋
 
-##### Olen toisen vuoden taloustieteen opiskelija Helsingin yliopistossa ja opiskelujen ohessa tulee tehtyä aina välillä pieniä koodausprojekteja. 
+##### Olen kolmannen vuoden taloustieteen opiskelija Helsingin yliopistossa ja opiskelujen ohessa tulee tehtyä aina välillä pieniä koodausprojekteja. 
 ##### Eniten kiinnostavat datan käsittelyyn ja analysoimiseen liittyvät aiheet, mutta myös muuta tulee tehtyä. 
 
 * ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
